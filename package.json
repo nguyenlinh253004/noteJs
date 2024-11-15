@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenlinh253004/noteJs.git"
+  },
+  "keywords": [
+    "coder",
+    "Linh"
+  ],
+  "author": "LinhNguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenlinh253004/noteJs/issues"
+  },
+  "homepage": "https://github.com/nguyenlinh253004/noteJs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
